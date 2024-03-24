@@ -1,0 +1,7 @@
+E:\mycode\asp.net\initiere\EmployeeCrudApi\EmployeeCrudApi\obj\Debug\net6.0\EmployeeCrudApi.csproj.AssemblyReference.cache
+E:\mycode\asp.net\initiere\EmployeeCrudApi\EmployeeCrudApi\obj\Debug\net6.0\EmployeeCrudApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\mycode\asp.net\initiere\EmployeeCrudApi\EmployeeCrudApi\obj\Debug\net6.0\EmployeeCrudApi.AssemblyInfoInputs.cache
+E:\mycode\asp.net\initiere\EmployeeCrudApi\EmployeeCrudApi\obj\Debug\net6.0\EmployeeCrudApi.AssemblyInfo.cs
+E:\mycode\asp.net\initiere\EmployeeCrudApi\EmployeeCrudApi\obj\Debug\net6.0\EmployeeCrudApi.csproj.CoreCompileInputs.cache
+E:\mycode\asp.net\initiere\EmployeeCrudApi\EmployeeCrudApi\obj\Debug\net6.0\EmployeeCrudApi.MvcApplicationPartsAssemblyInfo.cs
+E:\mycode\asp.net\initiere\EmployeeCrudApi\EmployeeCrudApi\obj\Debug\net6.0\EmployeeCrudApi.MvcApplicationPartsAssemblyInfo.cache
